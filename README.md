@@ -1,77 +1,100 @@
-# Hi, I'm Michael 👋
+# Michael Tsige Cherenet
 
-**Full-stack developer working on AI apps** · Addis Ababa, Ethiopia 🇪🇹
-
-I build full-stack web apps with the MERN stack and TypeScript, and I build LLM-powered tools with RAG.
-Right now I'm working on a **property management system for the Ethiopian market**.
-
-- 🔭 **Currently building:** [property-management-system-et](https://github.com/michaeltsige/property-management-system-et)
-- 🤖 **Exploring:** RAG pipelines, local LLMs (Ollama), vector databases
-- 🌱 **Learning:** <!-- e.g. Next.js, Docker, Flutter -->
-- 💼 **Open to:** <!-- e.g. full-time roles, freelance work, collaborations -->
-- 📫 **Reach me:** <!-- your-email@example.com --> · [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
+**Software Engineer** · Full-Stack · Real-Time Systems · AI/NLP
+📍 Addis Ababa, Ethiopia · 📫 [michaeltsigecherenet@gmail.com](mailto:michaeltsigecherenet@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## Summary
 
-**Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Frontend & Backend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-**AI / LLM**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat)
-
-**Tools & Deployment**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+I'm a software engineer with a B.Tech in Computer Science (GPA 9.38/10). I build full-stack web apps, real-time systems and AI tools with Node.js, Express, React, Next.js, Python and PostgreSQL. As a freelancer I've delivered work for real clients, including a Next.js booking system and a real-time WebSocket app that runs as a Telegram Mini App. I'm currently a Technology Associate at V-Tech Solutions PLC, and I've published two conference papers in NLP.
 
 ---
 
-## 🚀 Featured Projects
+## Experience
 
-### 🤖 AI & LLM
+### V-Tech Solutions PLC · Technology Associate
+*Addis Ababa, Ethiopia · Nov 2025 – Present*
+- Built and maintain an internal web app with **Next.js, React, Flask and PostgreSQL**, covering login, session management and the APIs that serve its content.
+- Building an **e-commerce Mini App that runs inside a bank's super app**: frontend, backend APIs, database integration and gathering requirements.
+- Write solution architecture and high-level design (HLD) documents for enterprise **cloud, security and infrastructure** projects. Translate client requirements into technical proposals.
+- Took part in a **Cloud WAF migration** for a banking client: onboarding, rule configuration, traffic analysis and tuning.
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Devdocs-Assistant**](https://github.com/michaeltsige/Devdocs-Assistant) | Answers questions about developer documentation using RAG, running local models | Python · FastAPI · Ollama · ChromaDB · LangChain |
-| [**RAG Chatbot**](https://github.com/michaeltsige/Retrieval-Augmented-Generation-Chatbot) | Chatbot that answers questions about your documents using their context | Python · LangChain · ChromaDB |
-
-### 🌐 Full-Stack Web
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**Property Management System (ET)**](https://github.com/michaeltsige/property-management-system-et) | Property management for the Ethiopian market *(in progress)* | TypeScript |
-| [**Property Platform**](https://github.com/michaeltsige/Property-Platform) | Platform for listing and managing properties ([frontend](https://github.com/michaeltsige/Property-Platform-Frontend) · [backend](https://github.com/michaeltsige/Property-Platform-Backend)) | React · Node.js · Express · MongoDB |
-| [**BookSwap**](https://github.com/michaeltsige/BookSwap) | Platform for trading books, deployed on Vercel | MERN |
-| [**BicycleShare**](https://github.com/michaeltsige/BicycleShare) | Bicycle sharing that shows availability in real time and takes bookings | JavaScript |
-| [**BikeBitz**](https://github.com/michaeltsige/BikeBitz) | Marketplace for buying and renting bicycles | JavaScript |
+### Freelance Developer
+*Remote · 2024 – Present*
+- **Logistics company website:** a responsive site with good SEO that presents a freight and logistics firm's services, built with Next.js.
+- **Dental clinic booking system:** patients can see open slots and book appointments online.
+- **Real-time interactive system:** WebSocket backend with a Telegram Mini App frontend. It handles many live sessions at once and keeps every user's view in sync.
 
 ---
 
-## 📊 GitHub Activity
+## Projects
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltsige&layout=compact&hide_border=true" alt="Top languages" height="150"/>
-</p>
+**[Besh](https://github.com/michaeltsige/Besh-Bingo): real-time multiplayer number game** · [backend](https://github.com/michaeltsige/Besh-Bingo-Backend) · [bot](https://github.com/michaeltsige/besh-telegram-bot)
+- Multiplayer number-matching game with a Next.js/TypeScript frontend, a Node.js/Express backend on PostgreSQL, and a Telegram bot that manages games.
+- Game logic runs in real time with Socket.IO: players are matched into rooms and numbers are called live across many games at once.
+- UI built with Tailwind CSS and shadcn/ui. The Telegram bot runs in a Docker container.
 
-<!--
-  Tip: if the stats card above ever fails to load (the public instance is sometimes rate-limited),
-  just delete this section. Your pinned repos and the contribution graph below already show your activity.
--->
+**[DevDocs Assistant](https://github.com/michaeltsige/Devdocs-Assistant): RAG-powered documentation tool**
+- Answers questions about developer docs using Retrieval-Augmented Generation (RAG), built with FastAPI, LangChain and ChromaDB.
+- Pipeline scrapes and cleans DevDocs content, then searches it by meaning in a local vector store.
+- Can use a hosted LLM API, or run offline with local models through Ollama.
+
+**[Amharic Literature Transformer](https://github.com/michaeltsige/Amharic-Literature-Transformer): generative NLP model** · *published at ICCMAMT 2024*
+- Transformer model that generates Amharic text.
+- Custom tokenizer built for the Amharic script.
+- BERT-based model that identifies a text's author.
+
+**[BookSwap](https://github.com/michaeltsige/BookSwap): full-stack MERN book trading platform**
+- Users can list, search for and trade books. Built with MongoDB, Express, React and Node.js.
+- JWT login, role-based access control, and REST APIs that validate input and handle errors.
+- Deployed on Vercel for real users.
+
+**[Property Platform](https://github.com/michaeltsige/Property-Platform): multi-tenant listing system** · [frontend](https://github.com/michaeltsige/Property-Platform-Frontend) · [backend](https://github.com/michaeltsige/Property-Platform-Backend)
+- Platform where many owners or agencies list and manage properties, with the frontend and backend in separate repos.
+- REST APIs in Express and MongoDB with login, create/edit/delete for properties, and image uploads.
 
 ---
 
-<p align="center"><i>Thanks for stopping by! Feel free to open an issue or reach out if you want to collaborate.</i></p>
+## Skills
+
+| | |
+|---|---|
+| **Languages** | JavaScript, TypeScript, Python, Go, C/C++, Java |
+| **Frontend** | React, Next.js, Tailwind CSS, shadcn/ui, Bootstrap, HTML, CSS |
+| **Backend** | Node.js, Express, FastAPI, Flask, REST APIs, WebSockets (Socket.IO) |
+| **Databases** | PostgreSQL, MongoDB (Mongoose), SQL |
+| **AI / NLP** | RAG, LangChain, ChromaDB, Ollama, Transformers, BERT |
+| **DevOps & Cloud** | Git, Linux, Docker, Kubernetes, AWS, Vercel |
+| **Security & Infra** | WAF/WAAP, IAM, SIEM, API Security, SD-WAN, Private Cloud |
+| **Concepts** | OOP, MVC, System Design (HLD) |
+
+---
+
+## Education
+
+**Hindustan Institute of Technology and Science**, Chennai, India
+B.Tech, Computer Science and Engineering · GPA **9.38/10** · First Class with Distinction (Highest Honors) · *2021 – 2025*
+
+---
+
+## Research
+
+- *Classification & Generation of Amharic Literature Using Transformers*, **ICCMAMT 2024**
+- *Gig Marketplace Application Using Retrieval-Augmented Generation*, **ICSIE 2025**
+
+---
+
+## Certifications
+
+- **AWS:** Cloud Practitioner Essentials; Builder Labs Learning Plan (Dec 2025)
+- **JPMorgan Chase & Co.:** Software Engineering Virtual Experience, Forage ([repo](https://github.com/michaeltsige/JPMC-Virtual-Internship))
+- **Cognizant:** Artificial Intelligence Virtual Experience, Forage
+- **Udemy:** The Ultimate MySQL Crash Course
+- **Vendor accreditations:** 19 security and cloud badges across Thales, Fortinet, IBM and Imperva
+
+---
+
+## Awards
+
+- **Study in India (SII) Scholarship**, Government of India
