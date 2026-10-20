@@ -1,100 +1,94 @@
-# Michael Tsige Cherenet
+<h1 align="center">Hi 👋, I'm Michael Tsige</h1>
+<h3 align="center">Software Engineer · Full-Stack · Real-Time Systems · AI/NLP</h3>
 
-**Software Engineer** · Full-Stack · Real-Time Systems · AI/NLP
-📍 Addis Ababa, Ethiopia · 📫 [michaeltsigecherenet@gmail.com](mailto:michaeltsigecherenet@gmail.com)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full-stack+apps+with+Next.js+%26+Node.js;Real-time+systems+with+Socket.IO;RAG+%26+LLM-powered+tools;Published+Amharic+NLP+researcher" alt="Typing SVG" />
+</p>
 
----
-
-## Summary
-
-I'm a software engineer with a B.Tech in Computer Science (GPA 9.38/10). I build full-stack web apps, real-time systems and AI tools with Node.js, Express, React, Next.js, Python and PostgreSQL. As a freelancer I've delivered work for real clients, including a Next.js booking system and a real-time WebSocket app that runs as a Telegram Mini App. I'm currently a Technology Associate at V-Tech Solutions PLC, and I've published two conference papers in NLP.
+<p align="center">📍 Addis Ababa, Ethiopia</p>
 
 ---
 
-## Experience
+### 🙋‍♂️ About Me
 
-### V-Tech Solutions PLC · Technology Associate
-*Addis Ababa, Ethiopia · Nov 2025 – Present*
-- Built and maintain an internal web app with **Next.js, React, Flask and PostgreSQL**, covering login, session management and the APIs that serve its content.
-- Building an **e-commerce Mini App that runs inside a bank's super app**: frontend, backend APIs, database integration and gathering requirements.
-- Write solution architecture and high-level design (HLD) documents for enterprise **cloud, security and infrastructure** projects. Translate client requirements into technical proposals.
-- Took part in a **Cloud WAF migration** for a banking client: onboarding, rule configuration, traffic analysis and tuning.
-
-### Freelance Developer
-*Remote · 2024 – Present*
-- **Logistics company website:** a responsive site with good SEO that presents a freight and logistics firm's services, built with Next.js.
-- **Dental clinic booking system:** patients can see open slots and book appointments online.
-- **Real-time interactive system:** WebSocket backend with a Telegram Mini App frontend. It handles many live sessions at once and keeps every user's view in sync.
+- 💼 **Technology Associate** at **V-Tech Solutions PLC**, building internal web apps with Next.js, Flask and PostgreSQL
+- 🧑‍💻 **Freelance developer**: client websites, booking systems and real-time Telegram Mini Apps
+- 🤖 Building **RAG and LLM tools** with LangChain, ChromaDB and local models through Ollama
+- 📝 **Published NLP researcher**: 2 conference papers on Amharic transformers and RAG
+- 🎓 **B.Tech in Computer Science**, GPA 9.38/10, First Class with Distinction
+- 📫 Reach me at **michaeltsigecherenet@gmail.com**
 
 ---
 
-## Projects
+### 🛠️ Tech Stack
 
-**[Besh](https://github.com/michaeltsige/Besh-Bingo): real-time multiplayer number game** · [backend](https://github.com/michaeltsige/Besh-Bingo-Backend) · [bot](https://github.com/michaeltsige/besh-telegram-bot)
-- Multiplayer number-matching game with a Next.js/TypeScript frontend, a Node.js/Express backend on PostgreSQL, and a Telegram bot that manages games.
-- Game logic runs in real time with Socket.IO: players are matched into rooms and numbers are called live across many games at once.
-- UI built with Tailwind CSS and shadcn/ui. The Telegram bot runs in a Docker container.
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,go,cpp,java,html,css" />
+</p>
 
-**[DevDocs Assistant](https://github.com/michaeltsige/Devdocs-Assistant): RAG-powered documentation tool**
-- Answers questions about developer docs using Retrieval-Augmented Generation (RAG), built with FastAPI, LangChain and ChromaDB.
-- Pipeline scrapes and cleans DevDocs content, then searches it by meaning in a local vector store.
-- Can use a hosted LLM API, or run offline with local models through Ollama.
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
 
-**[Amharic Literature Transformer](https://github.com/michaeltsige/Amharic-Literature-Transformer): generative NLP model** · *published at ICCMAMT 2024*
-- Transformer model that generates Amharic text.
-- Custom tokenizer built for the Amharic script.
-- BERT-based model that identifies a text's author.
+**Backend & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgres,mongodb,mysql" />
+</p>
 
-**[BookSwap](https://github.com/michaeltsige/BookSwap): full-stack MERN book trading platform**
-- Users can list, search for and trade books. Built with MongoDB, Express, React and Node.js.
-- JWT login, role-based access control, and REST APIs that validate input and handle errors.
-- Deployed on Vercel for real users.
+**AI / ML**
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
+</p>
 
-**[Property Platform](https://github.com/michaeltsige/Property-Platform): multi-tenant listing system** · [frontend](https://github.com/michaeltsige/Property-Platform-Frontend) · [backend](https://github.com/michaeltsige/Property-Platform-Backend)
-- Platform where many owners or agencies list and manage properties, with the frontend and backend in separate repos.
-- REST APIs in Express and MongoDB with login, create/edit/delete for properties, and image uploads.
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Mini_Apps-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
----
-
-## Skills
-
-| | |
-|---|---|
-| **Languages** | JavaScript, TypeScript, Python, Go, C/C++, Java |
-| **Frontend** | React, Next.js, Tailwind CSS, shadcn/ui, Bootstrap, HTML, CSS |
-| **Backend** | Node.js, Express, FastAPI, Flask, REST APIs, WebSockets (Socket.IO) |
-| **Databases** | PostgreSQL, MongoDB (Mongoose), SQL |
-| **AI / NLP** | RAG, LangChain, ChromaDB, Ollama, Transformers, BERT |
-| **DevOps & Cloud** | Git, Linux, Docker, Kubernetes, AWS, Vercel |
-| **Security & Infra** | WAF/WAAP, IAM, SIEM, API Security, SD-WAN, Private Cloud |
-| **Concepts** | OOP, MVC, System Design (HLD) |
+**DevOps & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github,vercel" />
+</p>
 
 ---
 
-## Education
+### 🚀 Featured Projects
 
-**Hindustan Institute of Technology and Science**, Chennai, India
-B.Tech, Computer Science and Engineering · GPA **9.38/10** · First Class with Distinction (Highest Honors) · *2021 – 2025*
-
----
-
-## Research
-
-- *Classification & Generation of Amharic Literature Using Transformers*, **ICCMAMT 2024**
-- *Gig Marketplace Application Using Retrieval-Augmented Generation*, **ICSIE 2025**
-
----
-
-## Certifications
-
-- **AWS:** Cloud Practitioner Essentials; Builder Labs Learning Plan (Dec 2025)
-- **JPMorgan Chase & Co.:** Software Engineering Virtual Experience, Forage ([repo](https://github.com/michaeltsige/JPMC-Virtual-Internship))
-- **Cognizant:** Artificial Intelligence Virtual Experience, Forage
-- **Udemy:** The Ultimate MySQL Crash Course
-- **Vendor accreditations:** 19 security and cloud badges across Thales, Fortinet, IBM and Imperva
+| Project | Description | Stack |
+|---|---|---|
+| 🎲 **[Besh](https://github.com/michaeltsige/Besh-Bingo)** | Multiplayer number game with room matchmaking, live number calling, and a Telegram bot that manages games · [backend](https://github.com/michaeltsige/Besh-Bingo-Backend) · [bot](https://github.com/michaeltsige/besh-telegram-bot) | Next.js · TypeScript · Socket.IO · PostgreSQL · Docker |
+| 🔎 **[DevDocs Assistant](https://github.com/michaeltsige/Devdocs-Assistant)** | Answers questions about developer docs using RAG, and can run offline with local models | FastAPI · LangChain · ChromaDB · Ollama |
+| ✍️ **[Amharic Literature Transformer](https://github.com/michaeltsige/Amharic-Literature-Transformer)** | Generates Amharic text with a small GPT, and identifies which of 21 authors wrote a passage (97.9% accuracy) · *ICCMAMT 2024* | PyTorch · Transformers · scikit-learn |
+| 📚 **[BookSwap](https://github.com/michaeltsige/BookSwap)** | Book trading platform with JWT login and role-based access, deployed on Vercel | MongoDB · Express · React · Node.js |
+| 🏠 **[Property Platform](https://github.com/michaeltsige/Property-Platform)** | Multi-tenant property listing system with a REST API and image uploads | React · Express · MongoDB |
+| 💬 **[RAG Chatbot](https://github.com/michaeltsige/Retrieval-Augmented-Generation-Chatbot)** | Chatbot that answers questions about your documents | Python · LangChain · ChromaDB |
 
 ---
 
-## Awards
+### 📝 Research
 
-- **Study in India (SII) Scholarship**, Government of India
+- 📄 *Classification & Generation of Amharic Literature Using Transformers*, **ICCMAMT 2024**
+- 📄 *Gig Marketplace Application Using Retrieval-Augmented Generation*, **ICSIE 2025**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=michaeltsige&hide_border=true" alt="GitHub streak" height="160"/>
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:michaeltsigecherenet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/michaeltsige"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<p align="center"><i>Thanks for stopping by! ⭐ Open to software engineering and AI engineering opportunities.</i></p>
