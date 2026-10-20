@@ -11,7 +11,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 💼 **Technology Associate** at **V-Tech Solutions PLC**, building internal web apps with Next.js, Flask and PostgreSQL
+- 💼 **Tech Associate** at **V-Tech Solutions PLC**, building internal web apps with Next.js, Flask and PostgreSQL
 - 🧑‍💻 **Freelance developer**: client websites, booking systems and real-time Telegram Mini Apps
 - 🤖 Building **RAG and LLM tools** with LangChain, ChromaDB and local models through Ollama
 - 📝 **Published NLP researcher**: 2 conference papers on Amharic transformers and RAG
