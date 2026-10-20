@@ -14,9 +14,9 @@
 - 💼 **Tech Associate** at **V-Tech Solutions PLC**, building internal web apps with Next.js, Flask and PostgreSQL
 - 🧑‍💻 **Freelance developer**: client websites, booking systems and real-time Telegram Mini Apps
 - 🤖 Building **RAG and LLM tools** with LangChain, ChromaDB and local models through Ollama
-- 📝 **Published NLP researcher**: 2 conference papers on Amharic transformers and RAG
-- 🎓 **B.Tech in Computer Science**, GPA 9.38/10, First Class with Distinction
-- 📫 Reach me at **michaeltsigecherenet@gmail.com**
+- 📝 **NLP research**: 2 conference papers on Amharic transformers and RAG
+- 🎓 **B.Tech in Computer Science and Engineering**, GPA 9.38/10, First Class with Distinction
+- 📫 Reach me at **michaeltckd@gmail.com**
 
 ---
 
